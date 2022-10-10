@@ -1,1 +1,1 @@
-readme
+echo 'Shell I/O redirections'
